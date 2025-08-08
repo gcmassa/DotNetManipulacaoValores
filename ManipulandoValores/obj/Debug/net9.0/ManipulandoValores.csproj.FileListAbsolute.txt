@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\bin\Debug\net9.0\ManipulandoValores.exe
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\bin\Debug\net9.0\ManipulandoValores.deps.json
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\bin\Debug\net9.0\ManipulandoValores.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\bin\Debug\net9.0\ManipulandoValores.dll
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\bin\Debug\net9.0\ManipulandoValores.pdb
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ManipulandoValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ManipulandoValores.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ManipulandoValores.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ManipulandoValores.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ManipulandoValores.dll
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\refint\ManipulandoValores.dll
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ManipulandoValores.pdb
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ManipulandoValores.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DotNetManipulacaoValores\ManipulandoValores\obj\Debug\net9.0\ref\ManipulandoValores.dll
